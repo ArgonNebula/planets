@@ -1,0 +1,10 @@
+0 Alpha 7-1-1
+1 Bravo 2-4-2
+2 Charlie 8-5-3
+3 Delta 7-9-3
+4 Echo 0-3-9
+5 Foxtrot 0-3-7
+6 Golf 6-7-9
+7 Hotel 1-9-5
+8 Indigo 10-10-10
+9 Juliet 13-13-13
